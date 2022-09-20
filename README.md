@@ -35,7 +35,7 @@ Part I. **Simple Linear Regression** (100 minutes total)
 - Interpreting SLR Model
 - Assumptions of SLR Model
 
-Part II. **Simple Linear Regression** (100 minutes total)
+Part II. **Multiple Linear Regression** (100 minutes total)
 - Introduction to MLR Model
 - Assumptions of MLR Model
 - OLS Estimates for MLR Model
